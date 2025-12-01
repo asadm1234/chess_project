@@ -1,2 +1,2 @@
 # chess_project
-This is my chess stockfish project, and it uses arduino code and python
+This is my Arduino–Stockfish chess project. The Arduino controls an 8×8 LED board, an OLED screen for real-time evaluations, and button inputs, and it sends moves to a Python script that runs Stockfish. The two talk over serial, letting me play full games against an AI using a physical board. I made it to combine my love for chess with my interest in building things and figuring out how hardware communicates with code.
